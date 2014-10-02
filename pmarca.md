@@ -1,6 +1,6 @@
 ![](http://media.tumblr.com/e6548d2e23cb2cfd6bf08fd69a1e3d01/tumblr_inline_ncs83ci7GA1qh1ufq.jpg)
 
-1. Quantum Computing something something????
+1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
 2. [Blown to Bits](http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599)
 3. [Why Nations Fail](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219)
 4. [Re-Creating The Corporation](http://www.amazon.com/Re-Creating-Corporation-Design-Organizations-Century/dp/0195123875)
