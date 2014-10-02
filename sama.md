@@ -1,5 +1,7 @@
 ![](http://i.imgur.com/A58kwko.jpg)
 
+From left to right.
+
 1. [Plentiful Energy](http://www.amazon.com/Plentiful-Energy-technology-scientific-non-specialists/dp/1466384603)
 2. ???
 3. [Fundamentals of Plasma Physics](http://www.amazon.com/Fundamentals-Plasma-Physics-Paul-Bellan/dp/0521528003)
