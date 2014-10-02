@@ -17,11 +17,21 @@
 15. [Information: The New Language of Science](http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575)
 16. ???
 
-![](http://media.tumblr.com/95a348fda00cb7b0820498aeed04e46f/tumblr_inline_ncs83luy031qh1ufq.jpg)
+![](http://i.imgur.com/eqX59aD.jpg)
 
 1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
 2. [The Genius Of The Beast: A Radical Re-Vision of Capitalism](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism-ebook/dp/B00C4B2GB4)
-3. Finish this section - help wanted!
+3. [Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century](http://www.amazon.com/Global-Brain-Evolution-Mass-Century/dp/0471419192)
+4. [The Starfish and the Spider: The Unstoppable Power of Leaderless Organizations](http://www.amazon.com/The-Starfish-Spider-Unstoppable-Organizations/dp/1591841836)
+5. [Technomanifestos: Visions of the Information Revolutionaries](http://www.amazon.com/Technomanifestos-Information-Revolutionaries-Adam-Brate/dp/1587991039)
+6. [Wetware: A Computer in Every Living Cell](http://www.amazon.com/Wetware-Computer-Every-Living-Cell/dp/0300167849)
+7. [Social History of the Media: From Gutenberg to the Internet](http://www.amazon.com/Social-History-Media-Gutenberg-Internet/dp/0745644953)
+8. [Flesh and Machines: How Robots Will Change Us](http://www.amazon.com/Flesh-Machines-Robots-Will-Change/dp/037572527X)
+9. [The Spike: How Our Lives Are Being Transformed By Rapidly Advancing Technologies](http://www.amazon.com/The-Spike-Transformed-Advancing-Technologies/dp/031287782X)
+10. [Red-Blooded Risk: The Secret History of Wall Street](http://www.amazon.com/Red-Blooded-Risk-Secret-History-Street/dp/1118043863)
+11. [The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies](http://www.amazon.com/The-Second-Machine-Age-Technologies/dp/0393239357)
+12. [A Social History of Knowledge: From Gutenberg to Diderot](http://www.amazon.com/Social-History-Knowledge-Gutenberg-Diderot/dp/0745624855)
+13. [A Social History of Knowledge II: From the Encyclopaedia to Wikipedia](http://www.amazon.com/Social-History-Knowledge-Encyclopaedia-Wikipedia/dp/0745650430)
 
 ![](http://media.tumblr.com/5643fc6ee40c7a3629e1b29ca74215a7/tumblr_inline_ncs83guis31qh1ufq.jpg)
 
