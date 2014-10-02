@@ -1,4 +1,4 @@
-![](http://media.tumblr.com/3e8d729728d8186b8987f810ca76ac23/tumblr_inline_ncsoayMVOi1qh1ufq.jpg)
+![](http://i.imgur.com/A58kwko.jpg)
 
 1. ???
 2. ???
