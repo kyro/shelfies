@@ -124,8 +124,21 @@
 
 [![](http://i.imgur.com/WQHy7wg.jpg)](http://i.imgur.com/WQHy7wg.jpg)
 
-1. Antifragile
-2. 
+1. [Antifragile](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
+2. [Digital Deflation](http://www.amazon.com/Digital-Deflation-Graham-Tanaka/dp/0071498990)
+3. [The Technology Imperative](http://www.amazon.com/The-Technology-Imperative-Gregory-Tassey/dp/1848444699)
+4. [The Transportation Revolution](http://www.amazon.com/Transportation-Revolution-1815-1860-Economic-History/dp/0873321014)
+5. [Crystal Clear](http://www.amazon.com/Crystal-Clear-Struggle-Communications-Technology/dp/0470046066)
+6. [Smarter Than You Think](http://www.amazon.com/Smarter-Than-You-Think-Technology/dp/0143125826)
+7. [Revolutionary Wealth](http://www.amazon.com/Revolutionary-Wealth-created-change-lives/dp/038552207X)
+8. [Powershift](http://www.amazon.com/Powershift-Knowledge-Wealth-Violence-Century/dp/0553292153)
+9. [The Third Wave](http://www.amazon.com/The-Third-Wave-Alvin-Toffler/dp/0553246984)
+10. [Future Shock](http://www.amazon.com/Future-Shock-Alvin-Toffler/dp/0553277375)
+11. [The Creative Destruction of Medicine](http://www.amazon.com/Creative-Destruction-Medicine-Digital-Revolution/dp/0465061834)
+12. [Historical Dynamics](http://www.amazon.com/Historical-Dynamics-Princeton-Studies-Complexity/dp/0691116695)
+13. [Secular Cycles](http://www.amazon.com/Secular-Cycles-Peter-Turchin/dp/0691136963)
+
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/PYmmPQu.jpg)](http://i.imgur.com/PYmmPQu.jpg)
 
@@ -134,7 +147,7 @@
 3. [From Counterculture to Cyberculture](http://www.amazon.com/From-Counterculture-Cyberculture-Stewart-Utopianism/dp/0226817423)
 4. [The One Best System](http://www.amazon.com/The-One-Best-System-Education/dp/0674637828)
 
-Rest of shelf continues below
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/QaMVQLm.jpg)](http://i.imgur.com/QaMVQLm.jpg)
 
