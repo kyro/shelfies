@@ -133,3 +133,17 @@
 2. 
 
 [![](http://i.imgur.com/QaMVQLm.jpg)](http://i.imgur.com/QaMVQLm.jpg)
+
+1. [The Economics of Information Technology](http://www.amazon.com/The-Economics-Information-Technology-Introduction/dp/0521605210)
+2. [Rainbows End](http://www.amazon.com/Rainbows-End-Vernor-Vinge/dp/0812536363)
+3. [Man-Made Minds](http://www.amazon.com/Man-Made-Minds-Promise-Artificial-Intelligence/dp/0802708994)
+4. [The Dream Machine](http://www.amazon.com/The-Dream-Machine-Licklider-Revolution/dp/0670899763)
+5. [Children of Light](http://www.amazon.com/Children-Light-Electricity-Changed-Britain/dp/1848871171)
+6. [Too Big To Know](http://www.amazon.com/Too-Big-Know-Rethinking-Everywhere/dp/0465085962)
+7. [Computer Power and Human Reason](http://www.amazon.com/Computer-Power-Human-Reason-Calculation/dp/0716704633)
+8. [The End Is Near and It's Going to Be Awesome](http://www.amazon.com/The-End-Near-Going-Awesome/dp/0062220683)
+9. [Edison's Eve](http://www.amazon.com/Edisons-Eve-Magical-History-Mechanical/dp/1400031583)
+10. [Consumption Economics](http://www.amazon.com/Consumption-Economics-The-Rules-Tech/dp/0984213031)
+11. [Nonzero](http://www.amazon.com/Nonzero-The-Logic-Human-Destiny/dp/0679758941)
+12. [The Master Switch](http://www.amazon.com/The-Master-Switch-Information-Empires/dp/0307390993)
+13. [Endless Frontier](http://www.amazon.com/Endless-Frontier-Vannevar-Engineer-American/dp/0684828219)
