@@ -1,3 +1,4 @@
+## Shelf 1
 [![](http://i.imgur.com/Q1pvt9r.jpg)](http://i.imgur.com/Q1pvt9r.jpg)
 
 1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
@@ -47,6 +48,7 @@
 10. [I Live In The Future, And Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
 11. [The Genius of the Beast](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism/dp/1616144785)
 
+## Shelf 2
 [![](http://i.imgur.com/C5ErIVY.jpg)](http://i.imgur.com/C5ErIVY.jpg)
 
 1. Infamous Scribblers
@@ -62,6 +64,7 @@
 1. Average Is Over
 2. 
 
+## Shelf 3
 [![](http://i.imgur.com/Mg8J5S2.jpg)](http://i.imgur.com/Mg8J5S2.jpg)
 
 1. The Progress Paradox
@@ -77,6 +80,7 @@
 1. Knowledge & Power
 2. 
 
+## Shelf 4
 [![](http://i.imgur.com/LlKigzO.jpg)](http://i.imgur.com/LlKigzO.jpg)
 
 1. The Essentials of Hirschman
@@ -92,6 +96,7 @@
 1. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591845424)
 2. 
 
+## Shelf 5
 [![](http://i.imgur.com/SVqN0eH.jpg)](http://i.imgur.com/SVqN0eH.jpg)
 
 1. In Line Behind
@@ -107,6 +112,7 @@
 1. [Reinventing Discovery: The Era of Networked Science](http://www.amazon.com/Reinventing-Discovery-The-Networked-Science/dp/0691148902)
 2. 
 
+## Shelf 6
 [![](http://i.imgur.com/eU6oXWC.jpg)](http://i.imgur.com/eU6oXWC.jpg)
 
 1. [Networked](http://www.amazon.com/Networked-New-Social-Operating-System/dp/0262526166)
@@ -158,6 +164,7 @@ Rest of shelf continues below.
 
 End of this shelf.
 
+## Shelf 7
 [![](http://i.imgur.com/WQHy7wg.jpg)](http://i.imgur.com/WQHy7wg.jpg)
 
 1. [Antifragile](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
