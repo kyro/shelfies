@@ -94,18 +94,60 @@
 
 [![](http://i.imgur.com/SVqN0eH.jpg)](http://i.imgur.com/SVqN0eH.jpg)
 
-1. In Line Behind
-2. 
+1. [In Line Behind a Billion People](http://www.amazon.com/Line-Behind-Billion-People-Scarcity/dp/0133133893)
+2. [Nine Algorithms That Changed the Future](http://www.amazon.com/Nine-Algorithms-That-Changed-Future/dp/0691158193)
+3. [The Gutenberg Revolution](http://www.amazon.com/Gutenberg-Revolution-Printing-Changed-History/dp/0553819666)
+4. [The High-Risk Society](http://www.amazon.com/High-Risk-Society-Michael-Mandel/dp/0812926374)
+5. [Rational Exuberance](http://www.amazon.com/Rational-Exuberance-Silencing-Enemies-Growth/dp/0060580496)
+6. [When Old Technologies Were New](http://www.amazon.com/When-Old-Technologies-Were-Communication/dp/0195063414)
+7. [The Entrepreneurial State](http://www.amazon.com/Entrepreneurial-State-Debunking-Innovation-Economics-ebook/dp/B00APDTQRA)
+8. [Bourgeois Dignity](http://www.amazon.com/Bourgeois-Dignity-Economics-Explain-Modern/dp/0226556743)
+9. [The Bourgeois Virtues](http://www.amazon.com/The-Bourgeois-Virtues-Ethics-Commerce/dp/0226556646)
+10. [The Founders and Finance](http://www.amazon.com/Founders-Finance-Hamilton-Gallatin-Immigrants/dp/0674284100)
+11. [The Gutenberg Galaxy](http://www.amazon.com/Gutenberg-Galaxy-Marshall-McLuhan/dp/144261269X)
+12. [The Global Village](http://www.amazon.com/Global-Village-Transformations-World-Century/dp/0195079108)
+13. [The Medium is the Massage](http://www.amazon.com/Medium-Massage-Marshall-McLuhan/dp/1584230703)
+14. [Essential McLuhan](http://www.amazon.com/Essential-McLuhan-Eric/dp/0465019951)
+15. [Down the Asphalt Path](http://www.amazon.com/Down-Asphalt-Path-Clay-McShane/dp/0231083912)
+16. [The Company](http://www.amazon.com/Company-History-Revolutionary-Library-Chronicles/dp/0812972872)
+17. [Junkyard Planet](http://www.amazon.com/Junkyard-Planet-Travels-Billion-Dollar-Trash/dp/1608197913)
+18. [The Lever of Riches](http://www.amazon.com/Lever-Riches-Technological-Creativity-Economic/dp/0195074777)
+19. [The Gifts of Athena](http://www.amazon.com/The-Gifts-Athena-Historical-Knowledge/dp/0691120137)
+20. [The New Geography of Jobs](http://www.amazon.com/New-Geography-Jobs-Enrico-Moretti/dp/0544028058)
+21. [Men, Machines, and Modern Times](http://www.amazon.com/Machines-Modern-Times-Elting-Morison/dp/0262630184)
+22. [Capitalism, Democracy, and Ralph's Pretty Good Grocery](http://www.amazon.com/Capitalism-Democracy-Ralphs-Pretty-Grocery/dp/0691090823)
+
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/1Mu7lte.jpg)](http://i.imgur.com/1Mu7lte.jpg)
 
-1. ??
-2. 
+1. [The Infinite Resource](http://www.amazon.com/Infinite-Resource-Power-Finite-Planet/dp/161168255X)
+2. [The End of Power](http://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694)
+3. [Engines That Move Markets](http://www.amazon.com/Engines-That-Move-Markets-Technology/dp/0471205958)
+4. [Reinventing Discovery](http://www.amazon.com/Reinventing-Discovery-New-Networked-Science/dp/0691148902)
+5. [The Religion of Technology](http://www.amazon.com/Religion-Technology-Divinity-Spirit-Invention/dp/0140279164)
+6. [Forces of Production](http://www.amazon.com/Forces-Production-History-Industrial-Automation/dp/0195040465)
+7. [Without Their Permission](http://www.amazon.com/Without-Their-Permission-Century-Managed/dp/1455520020)
+8. [Born Digital](http://www.amazon.com/Born-Digital-Understanding-Generation-Natives/dp/0465018564)
+9. [Medici Money](http://www.amazon.com/Medici-Money-Metaphysics-Fifteenth-Century-Enterprise/dp/0393328457)
+10. [Technological Revolutions and Financial Capital](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
+11. [Techno-Economic Paradigms](http://www.amazon.com/Techno-Economic-Paradigms-Essays-Carlota-Economics/dp/0857283952)
+12. [The Book in the Renaissance](http://www.amazon.com/Book-Renaissance-Andrew-Pettegree/dp/0300178212)
+13. [Mass Flourishing](http://www.amazon.com/Mass-Flourishing-Grassroots-Innovation-Challenge/dp/0691158983)
+
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/uJe1Cwk.jpg)](http://i.imgur.com/uJe1Cwk.jpg)
 
-1. [Reinventing Discovery: The Era of Networked Science](http://www.amazon.com/Reinventing-Discovery-The-Networked-Science/dp/0691148902)
-2. 
+1. [The Great Transformation](http://www.amazon.com/Great-Transformation-Political-Economic-Origins/dp/080705643X)
+2. [The Great Divergence](http://www.amazon.com/Great-Divergence-Europe-Making-Economy/dp/0691090106)
+3. [The Social Impact of the Telephone](http://www.amazon.com/Social-Impact-Telephone-Ithiel-Sola/dp/0262660482)
+4. [Forecasting the Telephone](http://www.amazon.com/Forecasting-Telephone-Retrospective-Communication-Information/dp/0893910481)
+5. [The Poverty of Historicism](http://www.amazon.com/Poverty-Historicism-Routledge-Classics/dp/0415278465)
+6. [The Future and Its Enemies](http://www.amazon.com/FUTURE-ITS-ENEMIES-Creativity-Enterprise/dp/0684862697)
+7. [The Rebirth of Education](http://www.amazon.com/Rebirth-Education-Schooling-Aint-Learning/dp/1933286776)
+
+End of this shelf.
 
 [![](http://i.imgur.com/eU6oXWC.jpg)](http://i.imgur.com/eU6oXWC.jpg)
 
