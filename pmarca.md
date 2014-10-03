@@ -129,8 +129,12 @@
 
 [![](http://i.imgur.com/PYmmPQu.jpg)](http://i.imgur.com/PYmmPQu.jpg)
 
-1. War & Peace & War??
-2. 
+1. [War and Peace and War](http://www.amazon.com/War-Peace-Rise-Fall-Empires/dp/0452288193)
+2. [The Democratic Surround](http://www.amazon.com/The-Democratic-Surround-Multimedia-Psychedelic/dp/0226817466)
+3. [From Counterculture to Cyberculture](http://www.amazon.com/From-Counterculture-Cyberculture-Stewart-Utopianism/dp/0226817423)
+4. [The One Best System](http://www.amazon.com/The-One-Best-System-Education/dp/0674637828)
+
+Rest of shelf continues below
 
 [![](http://i.imgur.com/QaMVQLm.jpg)](http://i.imgur.com/QaMVQLm.jpg)
 
