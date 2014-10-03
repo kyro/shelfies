@@ -1,4 +1,4 @@
-![](http://i.imgur.com/Q1pvt9r.jpg)
+[![](http://i.imgur.com/Q1pvt9r.jpg)](http://i.imgur.com/Q1pvt9r.jpg)
 
 1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
 2. [Blown to Bits](http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599)
@@ -17,7 +17,7 @@
 15. [Information: The New Language of Science](http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575)
 16. [Critical Mass: How One Thing Leads to Another](http://www.amazon.com/Critical-Mass-Thing-Leads-Another/dp/0374530416)
 
-![](http://i.imgur.com/eqX59aD.jpg)
+[![](http://i.imgur.com/eqX59aD.jpg)](http://i.imgur.com/eqX59aD.jpg)
 
 1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
 2. [The Genius Of The Beast: A Radical Re-Vision of Capitalism](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism-ebook/dp/B00C4B2GB4)
