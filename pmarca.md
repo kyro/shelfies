@@ -1,25 +1,25 @@
 [![](http://i.imgur.com/Q1pvt9r.jpg)](http://i.imgur.com/Q1pvt9r.jpg)
 
 1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
-2. [Blown to Bits](http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599)
-3. [Why Nations Fail](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219)
-4. [Re-Creating The Corporation](http://www.amazon.com/Re-Creating-Corporation-Design-Organizations-Century/dp/0195123875)
+2. [Blown to Bits](http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599) - *Your Life, Liberty, and Happiness After the Digital Explosion*
+3. [Why Nations Fail](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219) - *The Origins of Power, Prosperity, and Poverty*
+4. [Re-Creating The Corporation](http://www.amazon.com/Re-Creating-Corporation-Design-Organizations-Century/dp/0195123875) - *A Design of Organizations for the 21st Century*
 5. [Machines as the Measure of Men](http://www.amazon.com/Machines-Measure-Men-Technology-Comparative/dp/0801497604) - *Science, Technology, and Ideologies of Western Dominance*
-6. [Imagined Communities](http://www.amazon.com/Imagined-Communities-Reflections-Nationalism-Revised/dp/1844670864)
+6. [Imagined Communities](http://www.amazon.com/Imagined-Communities-Reflections-Nationalism-Revised/dp/1844670864) - *Reflections on the Origin and Spread of Nationalism, Revised Edition*
 7. [Makers](http://www.amazon.com/Makers-The-New-Industrial-Revolution/dp/0307720950) - *The New Industrial Revolution*
-8. [Evolution Isn't What It Used To Be](http://www.amazon.com/Evolution-Isnt-What-Used-Augmented/dp/0716729989)
-9. [All Connected Now](http://www.amazon.com/All-Connected-Now-Global-Civilization/dp/081334154X)
-10. [Everyday Technology](http://www.amazon.com/Everyday-Technology-Machines-Modernity-science-culture-ebook/dp/B00D4M899U)
+8. [Evolution Isn't What It Used To Be](http://www.amazon.com/Evolution-Isnt-What-Used-Augmented/dp/0716729989) - *The Augmented Animal and the Whole Wired World*
+9. [All Connected Now](http://www.amazon.com/All-Connected-Now-Global-Civilization/dp/081334154X) - *Life In The First Global Civilization*
+10. [Everyday Technology](http://www.amazon.com/Everyday-Technology-Machines-Modernity-science-culture-ebook/dp/B00D4M899U) - *Machines and the Making of India's Modernity*
 11. [The Nature of Technology](http://www.amazon.com/Nature-Technology-What-How-Evolves-ebook/dp/B002ISDCKW) - *What it is and How it Evolves*
 12. [Innovation Economics](http://www.amazon.com/Innovation-Economics-Robert-D-Atkinson-ebook/dp/B008X8L06O)
-13. [Supply-Side Follies](http://www.amazon.com/Supply-Side-Follies-Conservative-Economics-Innovation-ebook/dp/B00BZE493O)
-14. [The Past & Future of America's Economy](http://www.amazon.com/Past-Future-Americas-Economy-Innovation/dp/1845425766)
+13. [Supply-Side Follies](http://www.amazon.com/Supply-Side-Follies-Conservative-Economics-Innovation-ebook/dp/B00BZE493O) - *Why Conservative Economics Fails, Liberal Economics Falters, and Innovation Economics is the Answer*
+14. [The Past & Future of America's Economy](http://www.amazon.com/Past-Future-Americas-Economy-Innovation/dp/1845425766) - *Long Waves of Innovation That Power Cycles of Growth*
 15. [Information](http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575) - *The New Language of Science*
 16. [Critical Mass](http://www.amazon.com/Critical-Mass-Thing-Leads-Another/dp/0374530416) - *How One Thing Leads to Another*
 
 [![](http://i.imgur.com/eqX59aD.jpg)](http://i.imgur.com/eqX59aD.jpg)
 
-1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
+1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123) - *Why Your World, Work & Brain Are Being Creatively Disrupted*
 2. [The Genius Of The Beast](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism-ebook/dp/B00C4B2GB4) - *A Radical Re-Vision of Capitalism*
 3. [Global Brain](http://www.amazon.com/Global-Brain-Evolution-Mass-Century/dp/0471419192) - *The Evolution of Mass Mind from the Big Bang to the 21st Century*
 4. [The Starfish and the Spider](http://www.amazon.com/The-Starfish-Spider-Unstoppable-Organizations/dp/1591841836) - *The Unstoppable Power of Leaderless Organizations*
