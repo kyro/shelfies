@@ -33,93 +33,93 @@
 12. [A Social History of Knowledge: From Gutenberg to Diderot](http://www.amazon.com/Social-History-Knowledge-Gutenberg-Diderot/dp/0745624855)
 13. [A Social History of Knowledge II: From the Encyclopaedia to Wikipedia](http://www.amazon.com/Social-History-Knowledge-Encyclopaedia-Wikipedia/dp/0745650430)
 
-![](http://media.tumblr.com/5643fc6ee40c7a3629e1b29ca74215a7/tumblr_inline_ncs83guis31qh1ufq.jpg)
+[![](http://i.imgur.com/n48qpSO.jpg)](http://i.imgur.com/n48qpSO.jpg)
 
 1. On Paper
 
-![](http://media.tumblr.com/4c901022ff1fbe42bf548cd012c72076/tumblr_inline_ncs83skynW1qh1ufq.jpg)
+[![](http://i.imgur.com/C5ErIVY.jpg)](http://i.imgur.com/C5ErIVY.jpg)
 
 1. Infamous Scribblers
 2. 
 
-![](http://media.tumblr.com/e0c00fcc9d53ad4f138ba9d4672367bb/tumblr_inline_ncs83uMpgh1qh1ufq.jpg)
+[![](http://i.imgur.com/Xzk7nzU.jpg)](http://i.imgur.com/Xzk7nzU.jpg)
 
 1. A Farewell To Alms
 2. 
 
-![](http://media.tumblr.com/bf801b2010faf06e3fa6ade462e0a815/tumblr_inline_ncs83x5cvl1qh1ufq.jpg)
+[![](http://i.imgur.com/vm02Z14.jpg)](http://i.imgur.com/vm02Z14.jpg)
 
 1. Average Is Over
 2. 
 
-![](http://media.tumblr.com/3477758fff0bde222117aa6bb1d94837/tumblr_inline_ncs842ADiF1qh1ufq.jpg)
+[![](http://i.imgur.com/Mg8J5S2.jpg)](http://i.imgur.com/Mg8J5S2.jpg)
 
 1. The Progress Paradox
 2. 
 
-![](http://media.tumblr.com/272c5d4615ede37c55df755f5771da95/tumblr_inline_ncs847O9B01qh1ufq.jpg)
+[![](http://i.imgur.com/Ey7MmZi.jpg)](http://i.imgur.com/Ey7MmZi.jpg)
 
 1. [Creative Descruction](http://www.amazon.com/Creative-Destruction-Underperform-Market-And-Successfully/dp/038550134X)
 2. 
 
-![](http://media.tumblr.com/e8878e24373eccded5dbd2d27f4642d9/tumblr_inline_ncs8481l4A1qh1ufq.jpg)
+[![](http://i.imgur.com/psLRlOX.jpg)](http://i.imgur.com/psLRlOX.jpg)
 
 1. Knowledge & Power
 2. 
 
-![](http://media.tumblr.com/3bd29262a055217353a102fc0309c186/tumblr_inline_ncs84aryWd1qh1ufq.jpg)
+[![](http://i.imgur.com/LlKigzO.jpg)](http://i.imgur.com/LlKigzO.jpg)
 
 1. The Essentials of Hirschman
 2. 
 
-![](http://media.tumblr.com/8e677cbfc31ce3448198ef58f1082d41/tumblr_inline_ncs84dWAju1qh1ufq.jpg)
+[![](http://i.imgur.com/U4iitT7.jpg)](http://i.imgur.com/U4iitT7.jpg)
 
 1. Future Perfect
 2. 
 
-![](http://media.tumblr.com/104dc33ba3dca256db331e63122bd82e/tumblr_inline_ncs84j1pja1qh1ufq.jpg)
+[![](http://i.imgur.com/AIHhUsv.jpg)](http://i.imgur.com/AIHhUsv.jpg)
 
 1. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591845424)
 2. 
 
-![](http://media.tumblr.com/69b31fbe28ed42a44801c123abf0cada/tumblr_inline_ncs84lZYtY1qh1ufq.jpg)
+[![](http://i.imgur.com/SVqN0eH.jpg)](http://i.imgur.com/SVqN0eH.jpg)
 
 1. In Line Behind
 2. 
 
-![](http://media.tumblr.com/6052831efc979f706b7b48ec3326193a/tumblr_inline_ncs84orC0F1qh1ufq.jpg)
+[![](http://i.imgur.com/1Mu7lte.jpg)](http://i.imgur.com/1Mu7lte.jpg)
 
 1. ??
 2. 
 
-![](http://media.tumblr.com/b69004c09dab81e479f2b6de6af560ab/tumblr_inline_ncs84r5zJq1qh1ufq.jpg)
+[![](http://i.imgur.com/uJe1Cwk.jpg)](http://i.imgur.com/uJe1Cwk.jpg)
 
 1. [Reinventing Discovery: The Era of Networked Science](http://www.amazon.com/Reinventing-Discovery-The-Networked-Science/dp/0691148902)
 2. 
 
-![](http://media.tumblr.com/613961a787a64907f0e5126ef9170cbf/tumblr_inline_ncs84tLnzz1qh1ufq.jpg)
+[![](http://i.imgur.com/eU6oXWC.jpg)](http://i.imgur.com/eU6oXWC.jpg)
 
 1. Networked
 2. 
 
-![](http://media.tumblr.com/447fac62ea9aa922cbbf4853b3ad6bf3/tumblr_inline_ncs84vNxJ41qh1ufq.jpg)
+[![](http://i.imgur.com/L5as1Yv.jpg)](http://i.imgur.com/L5as1Yv.jpg)
 
 1. Make It So
 2. 
 
-![](http://media.tumblr.com/8b741b7056a073d59b667bb1a9a5051f/tumblr_inline_ncs84yFsjf1qh1ufq.jpg)
+[![](http://i.imgur.com/k6qPi4c.jpg)](http://i.imgur.com/k6qPi4c.jpg)
 
 1. Cognitive Surplus
 2. 
 
-![](http://media.tumblr.com/2dc87a30fc3df7ce92e47d3b995dd99a/tumblr_inline_ncs850mu951qh1ufq.jpg)
+[![](http://i.imgur.com/WQHy7wg.jpg)](http://i.imgur.com/WQHy7wg.jpg)
 
 1. Antifragile
 2. 
 
-![](http://media.tumblr.com/be835dac16f36084d4c28210709c3c7b/tumblr_inline_ncs853P4BV1qh1ufq.jpg)
+[![](http://i.imgur.com/PYmmPQu.jpg)](http://i.imgur.com/PYmmPQu.jpg)
 
 1. War & Peace & War??
 2. 
 
-![](http://media.tumblr.com/20cc2c20eca793199e888f6ed1acb8f8/tumblr_inline_ncs855fExz1qh1ufq.jpg)
+[![](http://i.imgur.com/QaMVQLm.jpg)](http://i.imgur.com/QaMVQLm.jpg)
