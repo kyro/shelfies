@@ -67,8 +67,20 @@
 ## Shelf 3
 [![](http://i.imgur.com/Mg8J5S2.jpg)](http://i.imgur.com/Mg8J5S2.jpg)
 
-1. The Progress Paradox
-2. 
+1. [The Progress Paradox](http://www.amazon.com/The-Progress-Paradox-Better-People/dp/0812973038) - *How Life Gets Better While People Feel Worse*
+2. [Sonic Boom](http://www.amazon.com/Sonic-Boom-Globalization-Mach-Speed/dp/1400063957) - *Globalization at Mach Speed* 
+3. [The Tyranny of Experts](http://www.amazon.com/The-Tyranny-Experts-Economists-Dictators/dp/0465031250) - *Economists, Dictators, and the Forgotten Rights of the Poor*
+4. [Divine Art, Infernal Machine](http://www.amazon.com/Divine-Art-Infernal-Machine-Impressions/dp/0812242807) - *The Reception of Printing in the West from First Impressions to the Sense of an Ending (Material Texts)*
+5. [The Printing Revolution in Early Modern Europe (Canto Classics)](http://www.amazon.com/Printing-Revolution-Modern-Europe-Classics/dp/1107632757)
+6. [Blown to Bits](http://www.amazon.com/Blown-Bits-Economics-Information-Transforms/dp/087584877X) - *How the New Economics of Information Transforms Strategy*
+7. [Jefferson and Hamilton](http://www.amazon.com/Jefferson-Hamilton-Rivalry-Forged-Nation/dp/1608195430) - *The Rivalry That Forged a Nation*
+8. [Power and Plenty](http://www.amazon.com/Power-Plenty-Millennium-Princeton-Economic/dp/0691143277) - *Trade, War, and the World Economy in the Second Millennium (Princeton Economic History of the Western World)*
+9. [America Calling](http://www.amazon.com/America-Calling-Social-History-Telephone/dp/0520086473) - *A Social History of the Telephone to 1940*
+10. [The Tinkerers](http://www.amazon.com/The-Tinkerers-Amateurs-Inventors-America/dp/0465009239) - *The Amateurs, DIYers, and Inventors Who Make America Great*
+11. [Organizing Entrepreneurial Judgment](http://www.amazon.com/Organizing-Entrepreneurial-Judgment-Approach-Firm/dp/0521697263) - *A New Approach to the Firm*
+12. [Innovation](http://www.amazon.com/Innovation-Attackers-Advantage-Richard-Foster/dp/0671622501) - *The Attacker's Advantage*
+13. [Creative Destruction](http://www.amazon.com/Creative-Destruction-Underperform-Market-And-Successfully/dp/038550134X) - *Why Companies That Are Built to Last Underperform the Market--And How to Successfully Transform Them*
+14. [The Moral Consequences of Economic Growth](http://www.amazon.com/The-Moral-Consequences-Economic-Growth/dp/1400095719)
 
 [![](http://i.imgur.com/Ey7MmZi.jpg)](http://i.imgur.com/Ey7MmZi.jpg)
 
