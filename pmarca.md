@@ -1,10 +1,10 @@
-![](http://media.tumblr.com/e6548d2e23cb2cfd6bf08fd69a1e3d01/tumblr_inline_ncs83ci7GA1qh1ufq.jpg)
+[![](http://i.imgur.com/Q1pvt9r.jpg)](http://i.imgur.com/Q1pvt9r.jpg)
 
 1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
 2. [Blown to Bits](http://www.amazon.com/Blown-Bits-Liberty-Happiness-Explosion/dp/0137135599)
 3. [Why Nations Fail](http://www.amazon.com/Why-Nations-Fail-Origins-Prosperity/dp/0307719219)
 4. [Re-Creating The Corporation](http://www.amazon.com/Re-Creating-Corporation-Design-Organizations-Century/dp/0195123875)
-5. ???
+5. [Machines as the Measure of Men: Science, Technology, and Ideologies of Western Dominance](http://www.amazon.com/Machines-Measure-Men-Technology-Comparative/dp/0801497604)
 6. [Imagined Communities](http://www.amazon.com/Imagined-Communities-Reflections-Nationalism-Revised/dp/1844670864)
 7. [Makers: The New Industrial Revolution](http://www.amazon.com/Makers-The-New-Industrial-Revolution/dp/0307720950)
 8. [Evolution Isn't What It Used To Be](http://www.amazon.com/Evolution-Isnt-What-Used-Augmented/dp/0716729989)
@@ -15,9 +15,9 @@
 13. [Supply-Side Follies](http://www.amazon.com/Supply-Side-Follies-Conservative-Economics-Innovation-ebook/dp/B00BZE493O)
 14. [The Past & Future of America's Economy](http://www.amazon.com/Past-Future-Americas-Economy-Innovation/dp/1845425766)
 15. [Information: The New Language of Science](http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575)
-16. ???
+16. [Critical Mass: How One Thing Leads to Another](http://www.amazon.com/Critical-Mass-Thing-Leads-Another/dp/0374530416)
 
-![](http://i.imgur.com/eqX59aD.jpg)
+[![](http://i.imgur.com/eqX59aD.jpg)](http://i.imgur.com/eqX59aD.jpg)
 
 1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
 2. [The Genius Of The Beast: A Radical Re-Vision of Capitalism](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism-ebook/dp/B00C4B2GB4)
