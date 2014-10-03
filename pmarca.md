@@ -1,3 +1,4 @@
+## Shelf 1
 [![](http://i.imgur.com/Q1pvt9r.jpg)](http://i.imgur.com/Q1pvt9r.jpg)
 
 1. [Quantum Computing Since Democritus](http://www.amazon.com/Quantum-Computing-since-Democritus-Aaronson/dp/0521199565)
@@ -17,6 +18,20 @@
 15. [Information](http://www.amazon.com/Information-Hans-Christian-von-Baeyer/dp/0674018575) - *The New Language of Science*
 16. [Critical Mass](http://www.amazon.com/Critical-Mass-Thing-Leads-Another/dp/0374530416) - *How One Thing Leads to Another*
 
+[![](http://i.imgur.com/n48qpSO.jpg)](http://i.imgur.com/n48qpSO.jpg)
+
+1. [Critical Mass](http://www.amazon.com/Critical-Mass-Philip-Ball-ebook/dp/B008BJ0HQ4/)
+2. [On Paper](http://www.amazon.com/On-Paper-Everything-Two-Thousand-Year-History/dp/0307266427)
+3. [Good Capitalism, Bad Capitalism](http://www.amazon.com/Good-Capitalism-Economics-Growth-Prosperity-ebook/dp/B0015DYG9C)
+4. [The Free Market Innovation Machine](http://www.amazon.com/Free-Market-Innovation-Machine-Analyzing-Capitalism-ebook/dp/B00J0HCLB0/)
+5. [The Cost of Disease](http://www.amazon.com/Cost-Disease-Computers-Cheaper-Health-ebook/dp/B009B5STCG)
+6. [The Origin of Wealth](http://www.amazon.com/Origin-Wealth-Remaking-Economics-Business/dp/1422121038)
+7. [The Voluntary City](http://www.amazon.com/Voluntary-City-Community-Economics-Cognition/dp/0472088378)
+8. [The Coming of Post-Industrial Society](http://www.amazon.com/The-Coming-Post-Industrial-Society-Forecasting/dp/0465097138)
+9. [Masters of the World](http://www.amazon.com/Masters-Word-Media-Shaped-History/dp/080212139X)
+10. [I Live In The Future, And Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
+11. [The Genius of the Beast](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism/dp/1616144785)
+
 [![](http://i.imgur.com/eqX59aD.jpg)](http://i.imgur.com/eqX59aD.jpg)
 
 1. [I Live In The Future, Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123) - *Why Your World, Work & Brain Are Being Creatively Disrupted*
@@ -33,20 +48,7 @@
 12. [A Social History of Knowledge](http://www.amazon.com/Social-History-Knowledge-Gutenberg-Diderot/dp/0745624855) - *From Gutenberg to Diderot*
 13. [A Social History of Knowledge II](http://www.amazon.com/Social-History-Knowledge-Encyclopaedia-Wikipedia/dp/0745650430) - *From the Encyclopaedia to Wikipedia*
 
-[![](http://i.imgur.com/n48qpSO.jpg)](http://i.imgur.com/n48qpSO.jpg)
-
-1. [Critical Mass](http://www.amazon.com/Critical-Mass-Philip-Ball-ebook/dp/B008BJ0HQ4/)
-2. [On Paper](http://www.amazon.com/On-Paper-Everything-Two-Thousand-Year-History/dp/0307266427)
-3. [Good Capitalism, Bad Capitalism](http://www.amazon.com/Good-Capitalism-Economics-Growth-Prosperity-ebook/dp/B0015DYG9C)
-4. [The Free Market Innovation Machine](http://www.amazon.com/Free-Market-Innovation-Machine-Analyzing-Capitalism-ebook/dp/B00J0HCLB0/)
-5. [The Cost of Disease](http://www.amazon.com/Cost-Disease-Computers-Cheaper-Health-ebook/dp/B009B5STCG)
-6. [The Origin of Wealth](http://www.amazon.com/Origin-Wealth-Remaking-Economics-Business/dp/1422121038)
-7. [The Voluntary City](http://www.amazon.com/Voluntary-City-Community-Economics-Cognition/dp/0472088378)
-8. [The Coming of Post-Industrial Society](http://www.amazon.com/The-Coming-Post-Industrial-Society-Forecasting/dp/0465097138)
-9. [Masters of the World](http://www.amazon.com/Masters-Word-Media-Shaped-History/dp/080212139X)
-10. [I Live In The Future, And Here's How It Works](http://www.amazon.com/Live-Future-Heres-How-Works/dp/0307591123)
-11. [The Genius of the Beast](http://www.amazon.com/The-Genius-Beast-Re-Vision-Capitalism/dp/1616144785)
-
+## Shelf 2
 [![](http://i.imgur.com/C5ErIVY.jpg)](http://i.imgur.com/C5ErIVY.jpg)
 
 1. Infamous Scribblers
@@ -62,6 +64,7 @@
 1. Average Is Over
 2. 
 
+## Shelf 3
 [![](http://i.imgur.com/Mg8J5S2.jpg)](http://i.imgur.com/Mg8J5S2.jpg)
 
 1. The Progress Paradox
@@ -77,6 +80,7 @@
 1. Knowledge & Power
 2. 
 
+## Shelf 4
 [![](http://i.imgur.com/LlKigzO.jpg)](http://i.imgur.com/LlKigzO.jpg)
 
 1. The Essentials of Hirschman
@@ -92,6 +96,7 @@
 1. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591845424)
 2. 
 
+## Shelf 5
 [![](http://i.imgur.com/SVqN0eH.jpg)](http://i.imgur.com/SVqN0eH.jpg)
 
 1. [In Line Behind a Billion People](http://www.amazon.com/Line-Behind-Billion-People-Scarcity/dp/0133133893)
@@ -149,6 +154,7 @@ Rest of shelf continues below.
 
 End of this shelf.
 
+## Shelf 6
 [![](http://i.imgur.com/eU6oXWC.jpg)](http://i.imgur.com/eU6oXWC.jpg)
 
 1. [Networked](http://www.amazon.com/Networked-New-Social-Operating-System/dp/0262526166)
@@ -200,6 +206,7 @@ Rest of shelf continues below.
 
 End of this shelf.
 
+## Shelf 7
 [![](http://i.imgur.com/WQHy7wg.jpg)](http://i.imgur.com/WQHy7wg.jpg)
 
 1. [Antifragile](http://www.amazon.com/Antifragile-Things-That-Disorder-Incerto/dp/0812979680)
