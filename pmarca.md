@@ -35,7 +35,17 @@
 
 [![](http://i.imgur.com/n48qpSO.jpg)](http://i.imgur.com/n48qpSO.jpg)
 
-1. On Paper
+1. [Critical Mass](http://www.amazon.com/Critical-Mass-Philip-Ball-ebook/dp/B008BJ0HQ4/)
+2. [On Paper](http://www.amazon.com/On-Paper-Everything-Two-Thousand-Year-History/dp/0307266427)
+3. [Good Capitalism, Bad Capitalism](http://www.amazon.com/Good-Capitalism-Economics-Growth-Prosperity-ebook/dp/B0015DYG9C)
+4. [The Free Market Innovation Machine](http://www.amazon.com/Free-Market-Innovation-Machine-Analyzing-Capitalism-ebook/dp/B00J0HCLB0/)
+5. The Cost of Disease
+6. The Origin of Wealth
+7. The Voluntary City
+8. The Coming of Post-Industrial Society
+9. Masters of the World
+10. I Live In The Future, And Here's How It Works
+11. The Genius of the Beast
 
 [![](http://i.imgur.com/C5ErIVY.jpg)](http://i.imgur.com/C5ErIVY.jpg)
 
