@@ -109,18 +109,54 @@
 
 [![](http://i.imgur.com/eU6oXWC.jpg)](http://i.imgur.com/eU6oXWC.jpg)
 
-1. Networked
-2. 
+1. [Networked](http://www.amazon.com/Networked-New-Social-Operating-System/dp/0262526166)
+2. [Infinite Progress](http://www.amazon.com/Infinite-Progress-Internet-Technology-Ignorance/dp/1608324044)
+3. [Turtles, Termites and Traffic Jams](http://www.amazon.com/Turtles-Termites-Traffic-Jams-Explorations/dp/0262680939)
+4. [The Rational Optimist](http://www.amazon.com/Rational-Optimist-Prosperity-Evolves-P-S/dp/0061452068)
+5. [Visions of Technology](http://www.amazon.com/Visions-Technology-Century-Machines-Systems/dp/0684863111)
+6. [Is War Necessary for Economic Growth?](http://www.amazon.com/War-Necessary-Economic-Growth-Procurement/dp/0195188047)
+7. [Technology, Growth, and Development](http://www.amazon.com/Technology-Growth-Development-Innovation-Perspective/dp/0195118715)
+8. [The Bet](http://www.amazon.com/The-Bet-Ehrlich-Julian-Gamble/dp/0300198973)
+9. [The Mobile Wave](http://www.amazon.com/The-Mobile-Wave-Intelligence-Everything/dp/1593157207)
+10. [Prophet of Innovation](http://www.amazon.com/Prophet-Innovation-Schumpeter-Creative-Destruction/dp/0674034813)
+11. [Essays](http://www.amazon.com/Essays-Entrepreneurs-Innovations-Evolution-Capitalism/dp/0887387640)
+12. [Capitalism, Socialism, and Democracy](http://www.amazon.com/Capitalism-Socialism-Democracy-Third-Edition/dp/0061561614)
+13. [Can Capitalism Survive?](http://www.amazon.com/Can-Capitalism-Survive-Creative-Destruction/dp/0061928011)
+14. [Seeing like a State](http://www.amazon.com/Seeing-like-State-Certain-Condition/dp/0300078153)
+15. [Technological Utopianism in American Culture](http://www.amazon.com/Technological-Utopianism-American-Culture-Howard/dp/0815630611)
+16. [Decoding the Universe](http://www.amazon.com/Decoding-Universe-Information-Explaining-Everything/dp/0143038397)
+17. [Information Rules](http://www.amazon.com/Information-Rules-Strategic-Network-Economy/dp/087584863X)
+18. [Make It So](http://www.amazon.com/Make-So-Interaction-Lessons-Science/dp/1933820985)
+
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/L5as1Yv.jpg)](http://i.imgur.com/L5as1Yv.jpg)
 
-1. Make It So
-2. 
+1. [Sentient City](http://www.amazon.com/Sentient-City-Ubiquitous-Computing-Architecture/dp/0262515865)
+2. [Deflation](http://www.amazon.com/Deflation-Gary-Shilling-ebook/dp/B000FA5L40)
+3. [The Age of Deleveraging](http://www.amazon.com/Age-Deleveraging-Updated-Investment-Strategies/dp/111815018X)
+4. [Cognitive Surplus](http://www.amazon.com/Cognitive-Surplus-Technology-Consumers-Collaborators/dp/0143119583)
+5. [The Economics of Network Industries](http://www.amazon.com/Economics-Network-Industries-Oz-Shy/dp/0521805007)
+6. [Wired for War](http://www.amazon.com/Wired-War-Robotics-Revolution-Conflict/dp/0143116843)
+7. [Portraits In Silicon](http://www.amazon.com/Portraits-Silicon-Robert-Slater/dp/0262691310)
+8. [Making the Modern World](http://www.amazon.com/Making-Modern-World-Materials-Dematerialization/dp/1119942535)
+9. [Made in the USA](http://www.amazon.com/Made-USA-Retreat-American-Manufacturing/dp/0262019388)
+
+Rest of shelf continues below.
 
 [![](http://i.imgur.com/k6qPi4c.jpg)](http://i.imgur.com/k6qPi4c.jpg)
 
-1. Cognitive Surplus
-2. 
+1. [The Victorian Internet](http://www.amazon.com/Victorian-Internet-Remarkable-Nineteenth--line/dp/162040592X)
+2. [Writing on the Wall](http://www.amazon.com/Writing-Wall-Social-Media-First/dp/1620402858)
+3. [Automate This](http://www.amazon.com/Automate-This-Algorithms-Markets-World/dp/1591846528)
+4. [In the Beginning...was the Command Line](http://www.amazon.com/Beginning-was-Command-Line/dp/0380815931)
+5. [The Diamond Age](http://www.amazon.com/Diamond-Age-Illustrated-Primer-Spectra/dp/0553380966)
+6. [Measuring Our Lives](http://www.amazon.com/Mismeasuring-Our-Lives-Why-Doesnt/dp/1595585192)
+7. [The Squandered Computer](http://www.amazon.com/Squandered-Computer-Evaluating-Information-Technologies/dp/0962041319)
+8. [The Economics of Innovation](http://www.amazon.com/Economics-Innovation-G-M-Peter-Swann/dp/1848440278)
+9. [Technological Innovation and the Great Depression](http://www.amazon.com/Technological-Innovation-Great-Depression-Szostak/dp/0813389410)
+
+End of this shelf.
 
 [![](http://i.imgur.com/WQHy7wg.jpg)](http://i.imgur.com/WQHy7wg.jpg)
 
@@ -164,3 +200,5 @@ Rest of shelf continues below.
 11. [Nonzero](http://www.amazon.com/Nonzero-The-Logic-Human-Destiny/dp/0679758941)
 12. [The Master Switch](http://www.amazon.com/The-Master-Switch-Information-Empires/dp/0307390993)
 13. [Endless Frontier](http://www.amazon.com/Endless-Frontier-Vannevar-Engineer-American/dp/0684828219)
+
+End of this shelf.
