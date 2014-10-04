@@ -155,18 +155,65 @@
 ## Shelf 4
 [![](http://i.imgur.com/LlKigzO.jpg)](http://i.imgur.com/LlKigzO.jpg)
 
-1. The Essentials of Hirschman
-2. 
+1. [The Essential Hirschman](http://www.amazon.com/The-Essential-Hirschman-Albert-O/dp/0691159904)
+2. [Exit, Voice, and Loyalty](http://www.amazon.com/Exit-Voice-Loyalty-Responses-Organizations/dp/0674276604) - *Responses to Decline in Firms, Organizations, and States*
+3. [Industry and Empire](http://www.amazon.com/Industry-Empire-Birth-Industrial-Revolution/dp/1565845617) - *The Birth of the Industrial Revolution*
+4. [The Ingenuity Gap](http://www.amazon.com/The-Ingenuity-Gap-Environmental-Unpredictable/dp/037571328X) - *Facing the Economic, Environmental, and Other Challenges of an Increasingly Complex and Unpredictable Future*
+5. [The Book](http://www.amazon.com/The-Book-Life-Story-Technology/dp/0801893119) - *The Life Story of a Technology*
+6. [Orwell's Revenge](http://www.amazon.com/Orwells-Revenge-The-1984-Palimpsest/dp/0029153352)
+7. [The Politics of Abundance](http://www.amazon.com/The-Politics-Abundance-Technology-Establish-ebook/dp/B00A4OAH5U) - *How Technology Can Fix the Budget, Revive the American Dream, and Establish Obama's Legacy*
+8. [Skinner](http://www.amazon.com/Skinner-Charlie-Huston/dp/0316133701)
+9. [Empire and Communications (Voyageur Classics)](http://www.amazon.com/Empire-Communications-Voyageur-Classics-Harold/dp/1550026623)
+10. [Worthless, Impossible and Stupid](http://www.amazon.com/Worthless-Impossible-Stupid-Entrepreneurs-Extraordinary/dp/1422186989) - *How Contrarian Entrepreneurs Create and Capture Extraordinary Value*
+11. [Cities and the Wealth of Nations](http://www.amazon.com/Cities-Wealth-Nations-Jane-Jacobs/dp/0394729110)
+12. [Doing Capitalism in the Innovation Economy](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257) - *Markets, Speculation and the State*
+13. [Worldly Goods](http://www.amazon.com/Worldly-Goods-New-History-Renaissance/dp/0393318664) - *A New History of the Renaissance*
+14. [The Myth of America's Decline](http://www.amazon.com/The-Myth-Americas-Decline-Prophecies/dp/0871404494) - *Politics, Economics, and a Half Century of False Prophecies*
+15. [Future Perfect](http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594631840) - *The Case For Progress In A Networked Age*
+16. [Everything Bad is Good for You](http://www.amazon.com/Everything-Bad-Good-You-Actually/dp/1594481946) - *How Today's Popular Culture is Actually Making Us Smarter*
+17. [Where Good Ideas Come From](http://www.amazon.com/Where-Good-Ideas-Come-From/dp/1594485380)
+18. [Investigations](http://www.amazon.com/Investigations-Stuart-A-Kauffman/dp/0195121058)
+19. [At Home in the Universe](http://www.amazon.com/At-Home-Universe-Self-Organization-Complexity/dp/0195111303) - *The Search for the Laws of Self-Organization and Complexity*
 
 [![](http://i.imgur.com/U4iitT7.jpg)](http://i.imgur.com/U4iitT7.jpg)
 
-1. Future Perfect
-2. 
+1. [Future Perfect](http://www.amazon.com/Future-Perfect-Case-Progress-Networked/dp/1594631840) - *The Case For Progress In A Networked Age*
+2. [Everything Bad is Good for You](http://www.amazon.com/Everything-Bad-Good-You-Actually/dp/1594481946) - *How Today's Popular Culture is Actually Making Us Smarter*
+3. [Where Good Ideas Come From](http://www.amazon.com/Where-Good-Ideas-Come-From/dp/1594485380)
+4. [Investigations](http://www.amazon.com/Investigations-Stuart-A-Kauffman/dp/0195121058)
+5. [At Home in the Universe](http://www.amazon.com/At-Home-Universe-Self-Organization-Complexity/dp/0195111303) - *The Search for the Laws of Self-Organization and Complexity*
+6. [The Origins of Order](http://www.amazon.com/The-Origins-Order-Self-Organization-Selection/dp/0195079515) - *Self-Organization and Selection in Evolution*
+7. [The Economic Laws of Scientific Research](http://www.amazon.com/The-Economic-Laws-Scientific-Research/dp/0312173067)
+8. [What Technology Wants](http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
+9. [New Rules for the New Economy](http://www.amazon.com/New-Rules-Economy-Kevin-Kelly/dp/014028060X)
+10. Productivity in the United States
+11. [Industrialization of Intelligence](http://www.amazon.com/Industrialization-Intelligence-Mind-Machine-Modern/dp/0044403453) - *Mind and Machine in the Modern Age*
+12. [Getting Better](http://www.amazon.com/Getting-Better-Development-Succeeding-And-Improve/dp/046503103X) - *Why Global Development Is Succeeding--And How We Can Improve the World Even More*
+13. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591843774) - *And Other Unapologetic Rules for Game-Changing Entrepreneurs*
+14. [The End of Medicine](http://www.amazon.com/The-End-Medicine-Silicon-Valley/dp/B001PO68Y2) - *How Silicon Valley (and Naked Mice) Will Reboot Your Doctor*
+15. [How We Got Here](http://www.amazon.com/How-Got-Here-Irreverent-Technology/dp/0060840978) - *A Slightly Irreverent History of Technology and Markets*
+16. [Entreprenurial Nation](http://www.amazon.com/Entrepreneurial-Nation-Manufacturing-Americas-Future/dp/0071802002) - *Why Manufacturing is Still Key to America's Future*
+17. [How to Run the World](http://www.amazon.com/How-Run-World-Charting-Renaissance/dp/1400068274) - *Charting a Course to the Next Renaissance*
 
 [![](http://i.imgur.com/AIHhUsv.jpg)](http://i.imgur.com/AIHhUsv.jpg)
 
-1. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591845424)
-2. 
+1. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591843774) - *And Other Unapologetic Rules for Game-Changing Entrepreneurs*
+2. [The End of Medicine](http://www.amazon.com/The-End-Medicine-Silicon-Valley/dp/B001PO68Y2) - *How Silicon Valley (and Naked Mice) Will Reboot Your Doctor*
+3. [How We Got Here](http://www.amazon.com/How-Got-Here-Irreverent-Technology/dp/0060840978) - *A Slightly Irreverent History of Technology and Markets*
+4. [Entreprenurial Nation](http://www.amazon.com/Entrepreneurial-Nation-Manufacturing-Americas-Future/dp/0071802002) - *Why Manufacturing is Still Key to America's Future*
+5. [How to Run the World](http://www.amazon.com/How-Run-World-Charting-Renaissance/dp/1400068274) - *Charting a Course to the Next Renaissance*
+6. [The Singularity Is Near](http://www.amazon.com/The-Singularity-Is-Near-Transcend/dp/0143037889) - *When Humans Transcend Biology*
+7. [The Age of Spiritual Machines](http://www.amazon.com/The-Age-Spiritual-Machines-Intelligence/dp/0140282025) - *When Computers Exceed Human Intelligence*
+8. [Toward A Theory Of Economic Growth](http://www.amazon.com/Toward-Theory-Of-Economic-Growth/dp/0393004295)
+9. [Population Capital & Growth](http://www.amazon.com/Population-Capital-Growth-Selected-Essays/dp/0393334511) - *Selected Essays*
+10. [Blue-Collar Blues](http://www.amazon.com/Blue-Collar-Blues-Inequality-International-Economics/dp/0881324140) - *Is Trade to Blame for Rising US Income Inequality? (Policy Analyses in International Economics)*
+11. [The Architecture of Innovation](http://www.amazon.com/The-Architecture-Innovation-Economics-Organizations/dp/1422143635) - *The Economics of Creative Organizations*
+12. [The Box](http://www.amazon.com/The-Box-Shipping-Container-Smaller/dp/0691136408) - *How the Shipping Container Made the World Smaller and the World Economy Bigger*
+13. [The New Division of Labor](http://www.amazon.com/The-New-Division-Labor-Computers/dp/0691119724) - *How Computers Are Creating the Next Job Market*
+14. [The Power of Productivity](http://www.amazon.com/The-Power-Productivity-Poverty-Stability-ebook/dp/B003SE6BWQ) - *Wealth, Poverty, and the Threat to Global Stability*
+15. [Land of Promise](http://www.amazon.com/Land-Promise-Economic-History-United/dp/0061834815) - *An Economic History of the United States*
+16. [New Tech, New Ties](http://www.amazon.com/New-Tech-Ties-Communication-Reshaping/dp/0262515040) - *How Mobile Communication Is Reshaping Social Cohesion*
+17. [Programming the Universe](http://www.amazon.com/Programming-Universe-Quantum-Computer-Scientist/dp/1400033861) - *A Quantum Computer Scientist Takes on the Cosmos*
 
 ## Shelf 5
 [![](http://i.imgur.com/SVqN0eH.jpg)](http://i.imgur.com/SVqN0eH.jpg)
