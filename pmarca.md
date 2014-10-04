@@ -51,18 +51,51 @@
 ## Shelf 2
 [![](http://i.imgur.com/C5ErIVY.jpg)](http://i.imgur.com/C5ErIVY.jpg)
 
-1. Infamous Scribblers
-2. 
+1. [Infamous Scribblers](http://www.amazon.com/Infamous-Scribblers-Founding-Beginnings-Journalism/dp/1586484281) - *The Founding Fathers and the Rowdy Beginnings of American Journalism*
+2. [The Death of Distance](http://www.amazon.com/The-Death-Distance-Communications-Revolution/dp/157851438X) - *How the Communications Revolution Is Changing our Lives*
+3. [The Big Switch](http://www.amazon.com/The-Big-Switch-Rewiring-Edison/dp/0393333949) - *Rewiring the World, from Edison to Google*
+4. [Would-Be Worlds](http://www.amazon.com/Would-Be-Worlds-Simulation-Changing-Frontiers/dp/0788196766) - *How Simulation Is Changing the Frontiers of Science*
+5. [A History of Modern Computing](http://www.amazon.com/History-Modern-Computing/dp/0262532034)
+6. [A Nation Transformed by Information](http://www.amazon.com/Nation-Transformed-Information-Colonial-Present/dp/0195128141) - *How Information Has Shaped the United States from Colonial Times to the Present*
+7. [Alexander Hamilton](http://www.amazon.com/Alexander-Hamilton-Ron-Chernow-ebook/dp/B000QJLQZI)
+8. [Networked Life](http://www.amazon.com/Networked-Life-20-Questions-Answers/dp/1107024943) - *20 Questions and Answers*
+9. [Seeing What's Next](http://www.amazon.com/Seeing-Whats-Next-Theories-Innovation/dp/1591391857) - *Using Theories of Innovation to Predict Industry Change*
+10. [The Innovator's Dilemma](http://www.amazon.com/The-Innovators-Dilemma-Revolutionary-Essentials/dp/0060521996) - *The Revolutionary Book that Will Change the Way You Do Business*
+11. [The Innovator's Solution](http://www.amazon.com/The-Innovators-Solution-Sustaining-Successful/dp/1578518520) - *Creating and Sustaining Successful Growth*
+12. [Regenesis](http://www.amazon.com/Regenesis-Synthetic-Biology-Reinvent-Ourselves/dp/0465021751) - *How Synthetic Biology Will Reinvent Nature and Ourselves*
+13. [A Farewell To Alms](http://www.amazon.com/Farewell-Alms-Economic-History-Princeton/dp/0691141282) - *A Brief Economic History of the World*
+
 
 [![](http://i.imgur.com/Xzk7nzU.jpg)](http://i.imgur.com/Xzk7nzU.jpg)
 
-1. A Farewell To Alms
-2. 
+1. [A Farewell To Alms](http://www.amazon.com/Farewell-Alms-Economic-History-Princeton/dp/0691141282) - *A Brief Economic History of the World*
+2. [The Change Function](http://www.amazon.com/The-Change-Function-Technologies-Others/dp/0713682078) - *Why Some Technologies Take Off and Others Crash and Burn*
+3. [The Bottom Billion](http://www.amazon.com/The-Bottom-Billion-Poorest-Countries/dp/0195373383) - *Why the Poorest Countries are Failing and What Can Be Done About It*
+4. [Dark Hero of the Information Age](http://www.amazon.com/Dark-Hero-Information-Age-Cybernetics/dp/0465013716) - *In Search of Norbert Wiener The Father of Cybernetics*
+5. [Logics of Hierarchy](http://www.amazon.com/Logics-Hierarchy-Organization-Military-Occupations/dp/0801474833) - *The Organization of Empires, States, and Military Occupations*
+6. [The Way We Never Were](http://www.amazon.com/The-Way-Never-Were-Nostalgia/dp/0465090974) - *American Families And The Nostalgia Trap*
+7. [Before the Computer](http://www.amazon.com/Before-Computer-James-W-Cortada/dp/0691050457)
+8. [Average Is Over](http://www.amazon.com/Average-Is-Over-Powering-Stagnation/dp/0525953736) - *Powering America Beyond the Age of the Great Stagnation*
+9. [Myths Of Rich And Poor](http://www.amazon.com/Myths-Of-Rich-And-Poor/dp/0465047831) - *Why We're Better Off Than We Think*
+10. [GDP](http://www.amazon.com/GDP-Brief-but-Affectionate-History/dp/0691156794) - *A Brief but Affectionate History*
+11. [The Sovereign Individual](http://www.amazon.com/The-Sovereign-Individual-Transition-Information/dp/0684832720) - *Mastering the Transition to the Information Age*
+12. [The Universal Computer](http://www.amazon.com/The-Universal-Computer-Leibniz-Turing/dp/0393047857) - *The Road from Leibniz to Turing*
 
 [![](http://i.imgur.com/vm02Z14.jpg)](http://i.imgur.com/vm02Z14.jpg)
 
-1. Average Is Over
-2. 
+1. [Average Is Over](http://www.amazon.com/Average-Is-Over-Powering-Stagnation/dp/0525953736) - *Powering America Beyond the Age of the Great Stagnation*
+2. [Myths Of Rich And Poor](http://www.amazon.com/Myths-Of-Rich-And-Poor/dp/0465047831) - *Why We're Better Off Than We Think*
+3. [GDP](http://www.amazon.com/GDP-Brief-but-Affectionate-History/dp/0691156794) - *A Brief but Affectionate History*
+4. [The Sovereign Individual](http://www.amazon.com/The-Sovereign-Individual-Transition-Information/dp/0684832720) - *Mastering the Transition to the Information Age*
+5. [The Universal Computer](http://www.amazon.com/The-Universal-Computer-Leibniz-Turing/dp/0393047857) - *The Road from Leibniz to Turing*
+6. [The Great Escape](http://www.amazon.com/The-Great-Escape-Origins-Inequality/dp/069115354X) - *Health, Wealth, and the Origins of Inequality*
+7. [The Invisible Future](http://www.amazon.com/The-Invisible-Future-Integration-Technology/dp/0071382240) - *The Seamless Integration of Technology Into Everyday Life*
+8. [Beyond Calculation](http://www.amazon.com/Beyond-Calculation-Fifty-Years-Computing/dp/0387985883) - *The Next Fifty Years of Computing*
+9. [A Short History of Technology](http://www.amazon.com/Short-History-Technology-Earliest-Times/dp/0486274721) - *From the Earliest Times to A.D. 1900*
+10. [Abundance](http://www.amazon.com/Abundance-Future-Better-Than-Think/dp/1451614217) - *The Future Is Better Than You Think*
+11. [How Capitalism Saved America](http://www.amazon.com/How-Capitalism-Saved-America-Pilgrims/dp/1400083311) - *The Untold History of Our Country, from the Pilgrims to the Present*
+12. [Radical Abundance](http://www.amazon.com/Radical-Abundance-Revolution-Nanotechnology-Civilization/dp/1610391136) - *How a Revolution in Nanotechnology Will Change Civilization*
+13. [Turing's Cathedral](http://www.amazon.com/Turings-Cathedral-Origins-Digital-Universe/dp/0375422773) - *The Origins of the Digital Universe*
 
 ## Shelf 3
 [![](http://i.imgur.com/Mg8J5S2.jpg)](http://i.imgur.com/Mg8J5S2.jpg)
