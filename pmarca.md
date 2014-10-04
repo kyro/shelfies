@@ -117,13 +117,40 @@
 
 [![](http://i.imgur.com/Ey7MmZi.jpg)](http://i.imgur.com/Ey7MmZi.jpg)
 
-1. [Creative Descruction](http://www.amazon.com/Creative-Destruction-Underperform-Market-And-Successfully/dp/038550134X)
-2. 
+1. [Creative Destruction](http://www.amazon.com/Creative-Destruction-Underperform-Market-And-Successfully/dp/038550134X) - *Why Companies That Are Built to Last Underperform the Market--And How to Successfully Transform Them*
+2. [The Moral Consequences of Economic Growth](http://www.amazon.com/The-Moral-Consequences-Economic-Growth/dp/1400095719)
+3. [The Machinery of Freedom](http://www.amazon.com/The-Machinery-Freedom-Radical-Capitalism-ebook/dp/B00LNDWWMW) - *Guide to a Radical Capitalism*
+4. [Nine Chains to the Moon](http://www.amazon.com/Nine-Chains-Moon-R-Fuller/dp/0385011490)
+5. [Mirror Worlds](http://www.amazon.com/Mirror-Worlds-Software-Universe-Shoebox/dp/019507906X) - *or the Day Software Puts the Universe in a Shoebox...How It Will Happen and What It Will Mean*
+6. [Ninety Percent of Everything](http://www.amazon.com/Ninety-Percent-Everything-Shipping-Invisible/dp/1250058295) - *Inside Shipping, the Invisible Industry That Puts Clothes on Your Back, Gas in Your Car, and Food on Your Plate*
+7. [When Things Start to Think](http://www.amazon.com/When-Things-Start-Think-Gershenfeld/dp/0805058745)
+8. [World 3.0](http://www.amazon.com/World-3-0-Global-Prosperity-Achieve/dp/142213864X) - *Global Prosperity and How to Achieve It*
+9. [Life After Television](http://www.amazon.com/Life-After-Television-Transformation-American/dp/0393311589) - *The Coming Transformation of Media and American Life*
+10. [TELECOSM](http://www.amazon.com/TELECOSM-Infinite-Bandwidth-Revolutionize-World/dp/0684809303) - *How Infinite Bandwidth will Revolutionize Our World*
+11. [Knowledge and Power](http://www.amazon.com/Knowledge-Power-Information-Capitalism-Revolutionizing/dp/1621570274) - *The Information Theory of Capitalism and How it is Revolutionizing our World*
+12. [Scripts, Grooves, and Writing Machines](http://www.amazon.com/Scripts-Grooves-Writing-Machines-Representing/dp/0804738726) - *Representing Technology in the Edison Era*
+13. [The Information](http://www.amazon.com/The-Information-History-Theory-Flood/dp/1400096235) - *A History, A Theory, A Flood*
+14. [The Race between Education and Technology](http://www.amazon.com/The-Race-between-Education-Technology/dp/0674035305)
+15. [Debt](http://www.amazon.com/Debt-The-First-000-Years/dp/1612191290) - *The First 5,000 Years*
+
 
 [![](http://i.imgur.com/psLRlOX.jpg)](http://i.imgur.com/psLRlOX.jpg)
 
-1. Knowledge & Power
-2. 
+1. [TELECOSM](http://www.amazon.com/TELECOSM-Infinite-Bandwidth-Revolutionize-World/dp/0684809303) - *How Infinite Bandwidth will Revolutionize Our World*
+2. [Knowledge and Power](http://www.amazon.com/Knowledge-Power-Information-Capitalism-Revolutionizing/dp/1621570274) - *The Information Theory of Capitalism and How it is Revolutionizing our World*
+3. [Scripts, Grooves, and Writing Machines](http://www.amazon.com/Scripts-Grooves-Writing-Machines-Representing/dp/0804738726) - *Representing Technology in the Edison Era*
+4. [The Information](http://www.amazon.com/The-Information-History-Theory-Flood/dp/1400096235) - *A History, A Theory, A Flood*
+5. [The Race between Education and Technology](http://www.amazon.com/The-Race-between-Education-Technology/dp/0674035305)
+6. [Debt](http://www.amazon.com/Debt-The-First-000-Years/dp/1612191290) - *The First 5,000 Years*
+7. [Free to Learn](http://www.amazon.com/Free-Learn-Unleashing-Instinct-Self-Reliant/dp/0465025994) - *Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life*
+8. ??
+9. [When Computers Were Human](http://www.amazon.com/When-Computers-Human-David-Grier/dp/0691091579)
+10. [Better, Stronger, Faster](http://www.amazon.com/Better-Stronger-Faster-American-Decline/dp/1451621280) - *The Myth of American Decline . . . and the Rise of a New Economy*
+11. [The Future We Deserve](http://www.amazon.com/The-Future-Deserve-Vinay-Gupta/dp/3868980032)
+12. [How Breakthroughs Happen](http://www.amazon.com/How-Breakthroughs-Happen-Surprising-Companies/dp/1578519047) - *The Surprising Truth About How Companies Innovate*
+13. [When Information Came of Age](http://www.amazon.com/When-Information-Came-Age-Technologies/dp/0195153731) - *Technologies of Knowledge in the Age of Reason and Revolution, 1700-1850*
+14. [General Purpose Technologies and Economic Growth](http://www.amazon.com/General-Purpose-Technologies-Economic-Growth/dp/0262514680)
+15. [Technology and International Transformation](http://www.amazon.com/Technology-International-Transformation-Railroad-Technological/dp/0791468682) - *The Railroad, the Atom Bomb, and the Politics of Technological Change (Suny Series in Global Politics)*
 
 ## Shelf 4
 [![](http://i.imgur.com/LlKigzO.jpg)](http://i.imgur.com/LlKigzO.jpg)
