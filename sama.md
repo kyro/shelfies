@@ -3,10 +3,10 @@
 From left to right.
 
 1. [Plentiful Energy](http://www.amazon.com/Plentiful-Energy-technology-scientific-non-specialists/dp/1466384603)
-2. ???
+2. [The Emperor of All Maladies: A Biography of Cancer](https://www.amazon.com/Emperor-All-Maladies-Biography-Cancer/dp/1439170916/)
 3. [Fundamentals of Plasma Physics](http://www.amazon.com/Fundamentals-Plasma-Physics-Paul-Bellan/dp/0521528003)
 4. [The Old Way: A Story of the First People](http://www.amazon.com/Old-Way-Story-First-People-ebook/dp/B000Y2I7Q8)
-5. ???
+5. [Marcus Aurelius, Meditations (Dover Thrift Editions)](https://www.amazon.com/Meditations-Thrift-Editions-Marcus-Aurelius-ebook/dp/B008TVLRU4)
 6. [Anna Karenina](http://www.amazon.com/Anna-Karenina-Hardcover-Classics-Tolstoy/dp/014119961X)
 7. ???
 8. [A Life Decoded](http://www.amazon.com/Life-Decoded-My-Genome/dp/0143114182)
@@ -14,7 +14,7 @@ From left to right.
 10. ???
 11. [The Kite Runner](http://www.amazon.com/Kite-Runner-10th-Anniversary/dp/159463193X)
 12. [Foundation](http://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354)
-13. ???
+13.[A Canticle for Leibowitz](https://www.amazon.com/A-Canticle-for-Leibowitz/dp/B005FG4IQG/)
 14. [Hunger of Memory](http://www.amazon.com/Hunger-Memory-Education-Richard-Rodriguez/dp/0553272934)
 15. ???
 16. [Brave New World Revisited](http://www.amazon.com/Brave-World-Revisited-Aldous-Huxley/dp/0060898526)
@@ -30,7 +30,7 @@ From left to right.
 26. [Skunk Works](http://www.amazon.com/Skunk-Works-Personal-Memoir-Lockheed/dp/0316743003)
 27. [Powering the Future](http://www.amazon.com/Powering-Future-Eventually-Civilization-Tomorrow/dp/0465022197)
 28. [Plan B 3.0](http://www.amazon.com/Plan-3-0-Mobilizing-Civilization-Substantially/dp/B00E292PVW)
-29. ???
+29. ??? something on Copernican Astronomy or Renaissance Astronomy
 30. [The Trial of Socrates](http://www.amazon.com/Trial-Socrates-I-F-Stone/dp/0385260326)
 31. [The Legend of Henry Ford](http://www.amazon.com/Legend-Henry-Ford-Keith-Sward/dp/0689701918)
 32. [1984](http://www.amazon.com/1984-Signet-Classics-George-Orwell/dp/0451524934)
