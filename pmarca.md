@@ -186,7 +186,7 @@
 7. [The Economic Laws of Scientific Research](http://www.amazon.com/The-Economic-Laws-Scientific-Research/dp/0312173067)
 8. [What Technology Wants](http://www.amazon.com/What-Technology-Wants-Kevin-Kelly/dp/0143120174)
 9. [New Rules for the New Economy](http://www.amazon.com/New-Rules-Economy-Kevin-Kelly/dp/014028060X)
-10. Productivity in the United States
+10. [Productivity in the United States](https://www.amazon.com/Productivity-United-States-Trends-Cycles/dp/0801822890) - *Trends and Cycles*
 11. [Industrialization of Intelligence](http://www.amazon.com/Industrialization-Intelligence-Mind-Machine-Modern/dp/0044403453) - *Mind and Machine in the Modern Age*
 12. [Getting Better](http://www.amazon.com/Getting-Better-Development-Succeeding-And-Improve/dp/046503103X) - *Why Global Development Is Succeeding--And How We Can Improve the World Even More*
 13. [Eat People](http://www.amazon.com/Eat-People-Unapologetic-Game-Changing-Entrepreneurs/dp/1591843774) - *And Other Unapologetic Rules for Game-Changing Entrepreneurs*
